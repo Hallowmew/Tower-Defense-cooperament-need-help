@@ -2,7 +2,7 @@
 >**An Open Source Tower Defense Game**
 
 # About
-This is (at least to start), a simple tower defense game that utlizes [Pygame](https://www.pygame.org). I am trying to learn to code and github better. This repository exists for me to display my progress but also for others to learn as well. Have an idea that you think would make this project better? Contribute!
+This is (at least to start), a simple tower defense game that utlizes [Pygame](https://www.pygame.org). I am trying to learn to code and how to use github better. This repository exists for me to display my progress but also for others to learn as well. Have an idea that you think would make this project better? Contribute!
 > **Your contributions are valuable regardless of how experienced you are or where your strengths lie.**
 
 Have you ever wanted to be a game developer? Well, this is where you can start to learn. Please contribute and join me on path to become a better developer.
