@@ -1,4 +1,4 @@
-# Tower-Defense-Cooperament
+# 🎮 Tower-Defense-Cooperament 🎮
 >**An Open Source Tower Defense Game**
 
 # About
